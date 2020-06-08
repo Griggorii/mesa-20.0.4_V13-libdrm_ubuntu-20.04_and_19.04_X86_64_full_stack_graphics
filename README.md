@@ -3,9 +3,7 @@ graphics , mesa , 20.0.4 , libpng12 , support , x86_64 , gallium-pipe , OpenCL ,
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10 , alternative driver libglu
 
-Mesa download + instructions: https://yadi.sk/d/CZjfrkOMMrpEEg
-
-Readme install
+Mesa download + instructions: https://yadi.sk/d/CZjfrkOMMrpEEg Readme install
 
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
