@@ -11,4 +11,4 @@ Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string c
 
 News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a
 
-Ok wayland stable reinstall vulkan sudo apt --reinstall install vulkan-tools vulkan-utils libvulkan-dev -y   
+Драйвер уже фактически не тормозит видимо новый вулкан как то повлиял , а может где то что то отремонтировали и что бы не ломать структуру где была поимана эта точка то после любого обновления его наверное лучше переустанавливать именно в этой заморозке.
