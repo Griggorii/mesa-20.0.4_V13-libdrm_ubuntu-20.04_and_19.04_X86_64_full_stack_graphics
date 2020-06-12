@@ -10,3 +10,5 @@ Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285
 Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string compile flag rerun
 
 News + libGLESv1 all .la + new include
+
+Ok reinstall vulkan sudo apt --reinstall install vulkan-tools vulkan-utils libvulkan-dev -y   
