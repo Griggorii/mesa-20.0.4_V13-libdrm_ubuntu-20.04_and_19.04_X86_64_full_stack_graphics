@@ -11,4 +11,4 @@ Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string c
 
 News + libGLESv1 all .la + new include
 
-Ok reinstall vulkan sudo apt --reinstall install vulkan-tools vulkan-utils libvulkan-dev -y   
+Ok wayland stable reinstall vulkan sudo apt --reinstall install vulkan-tools vulkan-utils libvulkan-dev -y   
