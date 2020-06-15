@@ -3,6 +3,8 @@ graphics , mesa , 20.0.4 , libpng12 , support , x86_64 , gallium-pipe , OpenCL ,
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10 , alternative driver libglu
 
+sudo apt install libpciaccess0 -y
+
 Mesa download + instructions: https://yadi.sk/d/wAtDdGyOqV-30g Readme install
 
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
