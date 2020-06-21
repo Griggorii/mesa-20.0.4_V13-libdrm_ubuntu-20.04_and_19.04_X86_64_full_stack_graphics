@@ -1,5 +1,5 @@
 # mesa-20.0.4_V14-libdrm_ubuntu-20.04_and_19.04_X86_64_full_stack_graphics
-graphics , mesa , 20.0.4 , libpng12 , support , x86_64 , gallium-pipe , OpenCL , d3d , nine , vdpau , libGLX_indirect , linux , ubuntu 20.04 , ubuntu 19.04
+graphics , mesa , 20.0.4 , libpng12 , support , x86_64 , gallium-pipe , OpenCL , d3d , nine , vdpau , libGLX_indirect , linux , ubuntu 20.04 , ubuntu 19.04 , EGL1.4
 
 Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10 , alternative driver libglu
 
