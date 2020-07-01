@@ -11,7 +11,7 @@ Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285
 
 Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string compile flag rerun
 
-News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a
+News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a + libxatracker.la 01.07.1983
 
 Внимание если вы используете мой дистрибутив гдке проводником является nemo и вы обновились у вас в wayland может появиться дублирование иконок из за лиц которые тянут одеяло на себя делаем sudo -rm -rf /usr/share/gnome-shell/extensions/desktop-icons@csoriano
 
