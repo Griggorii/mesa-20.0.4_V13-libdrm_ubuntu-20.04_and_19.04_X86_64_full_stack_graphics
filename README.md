@@ -5,7 +5,7 @@ Ubuntu X64 ubuntu 19.04 disco dingo , ubuntu 20.04 focal fossa , not ubuntu 18.1
 
 sudo apt install libpciaccess0 -y  upgrade mesa do 20.0.4-2ubuntu1 install tar.xz
 
-Mesa download + instructions: https://yadi.sk/d/wAtDdGyOqV-30g Readme install
+Mesa download + instructions: https://yadi.sk/d/fMH4GwC0IJRZVg Readme install
 
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
