@@ -13,6 +13,8 @@ Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string c
 
 News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a + libxatracker.la 01.07.1983
 
+Test wayland video 4K and 8K https://www.youtube.com/watch?v=gYO1uk7vIcc
+
 Внимание если вы используете мой дистрибутив гдке проводником является nemo и вы обновились у вас в wayland может появиться дублирование иконок из за лиц которые тянут одеяло на себя делаем sudo -rm -rf /usr/share/gnome-shell/extensions/desktop-icons@csoriano
 
 Если же иконки перестали появляться того же nemo значит переинсталируйте снова этот драйвер они его подменяют не заметно от пользователя по типу windows достаточно им свои ssh терминалом включить trminal=false на более медленный. На счет efi в /boot/efi/EFI/ubuntu там не должно быть лишних фаилов типа shimsshX64 всего два фаила должно быть grub.cfg и grubx64.efi
