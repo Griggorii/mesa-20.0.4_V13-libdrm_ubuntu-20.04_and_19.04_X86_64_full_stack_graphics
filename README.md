@@ -13,7 +13,7 @@ Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285
 
 Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string compile flag rerun
 
-News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a + libxatracker.la 01.07.1983
+News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a + libxatracker.la 01.07.2020
 
 Test wayland video 4K and 8K https://www.youtube.com/watch?v=gYO1uk7vIcc
 
