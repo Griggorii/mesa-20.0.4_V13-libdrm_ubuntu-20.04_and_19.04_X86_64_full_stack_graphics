@@ -30,6 +30,8 @@ Test wayland video 4K and 8K https://www.youtube.com/watch?v=gYO1uk7vIcc
 
 Portage dump structure driver ubuntu 16.04-18.04 https://youtu.be/F5SYMzrTxjI?t=104
 
+Brave browser profile srgb https://www.youtube.com/watch?v=I2aHs2mRtXc
+
 ________________________________________________________________________________________________________________________________________________________________
 
 $ glxinfo
