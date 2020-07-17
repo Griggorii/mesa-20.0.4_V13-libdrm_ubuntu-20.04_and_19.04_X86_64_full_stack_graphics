@@ -7,6 +7,8 @@ sudo apt install libpciaccess0 -y  upgrade mesa do 20.0.4-2ubuntu1 install tar.x
 
 Mesa download + instructions: https://yadi.sk/d/efWd28SVdl1zJA Readme install
 
+Benchmark: https://radikal.ru/video/EvoiJVc0EvC
+
 Example install V8 video run firefox browser : https://radikal.ru/video/37hX8285dzn
 
 Драйвер может заработать не сразу и какое то время фризы в wayland будут выполните sudo rm -rf /var/cache/apparmor/* rm -rf ~/.cache/*
