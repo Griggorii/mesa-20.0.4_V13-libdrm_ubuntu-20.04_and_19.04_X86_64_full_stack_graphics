@@ -17,7 +17,7 @@ Test perfomance 2D https://www.shadertoy.com/view/3lsSzf replace my fix string c
 
 News + libGLESv1 , GLU , GLX , OPENGL , libGLESv2 pkgconfig + libglu library libglu.a + libxatracker.la 01.07.2020
 
-Данный драйвер считаю лучшим по оттенкам и цветам он не теряет даже в темноте дальше у фирм идут драйверы цыфрой выше , но уже этого нету.
+Данный драйвер считаю лучшим по оттенкам и цветам он не теряет даже в темноте дальше у фирм идут драйверы цыфрой выше , но уже этого нету в браузере выставите флаг srgb и смотрите видео в лучшем цветовом пространстве и чёткости и не замыливании изображения.
 
 Test wayland video 4K and 8K https://www.youtube.com/watch?v=gYO1uk7vIcc
 
