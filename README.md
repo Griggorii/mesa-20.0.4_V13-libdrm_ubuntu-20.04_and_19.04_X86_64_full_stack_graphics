@@ -36,6 +36,61 @@ Portage dump structure driver ubuntu 16.04-18.04 https://youtu.be/F5SYMzrTxjI?t=
 
 Brave browser profile srgb https://www.youtube.com/watch?v=I2aHs2mRtXc
 
+
+________________________________________________________________________________________________________________________________________________________________
+
+Log Ubuntu 20.10
+
+log_file: /var/log/gpu-manager.log
+last_boot_file: /var/lib/ubuntu-drivers-common/last_gfx_boot
+new_boot_file: /var/lib/ubuntu-drivers-common/last_gfx_boot
+can't access /run/u-d-c-nvidia-was-loaded file
+can't access /opt/amdgpu-pro/bin/amdgpu-pro-px
+Looking for nvidia modules in /lib/modules/5.4.0-26-generic/updates/dkms
+Looking for amdgpu modules in /lib/modules/5.4.0-26-generic/updates/dkms
+Is nvidia loaded? no
+Was nvidia unloaded? no
+Is nvidia blacklisted? no
+Is intel loaded? yes
+Is radeon loaded? no
+Is radeon blacklisted? no
+Is amdgpu loaded? no
+Is amdgpu blacklisted? no
+Is amdgpu versioned? no
+Is amdgpu pro stack? no
+Is nouveau loaded? yes
+Is nouveau blacklisted? no
+Is nvidia kernel module available? no
+Is amdgpu kernel module available? no
+Vendor/Device Id: 8086:116
+BusID "PCI:0@0:2:0"
+Is boot vga? yes
+Vendor/Device Id: 10de:1140
+BusID "PCI:1@0:0:0"
+Is boot vga? no
+Skipping "/dev/dri/card1", driven by "nouveau"
+Skipping "/dev/dri/card0", driven by "i915"
+Skipping "/dev/dri/card1", driven by "nouveau"
+Skipping "/dev/dri/card0", driven by "i915"
+Found "/dev/dri/card1", driven by "nouveau"
+Number of connected outputs for /dev/dri/card1: 0
+Skipping "/dev/dri/card1", driven by "nouveau"
+Found "/dev/dri/card0", driven by "i915"
+output 0:
+	card0-LVDS-1
+Number of connected outputs for /dev/dri/card0: 1
+Does it require offloading? yes
+last cards number = 2
+Has amd? no
+Has intel? yes
+Has nvidia? yes
+How many cards? 2
+Has the system changed? No
+Intel IGP detected
+Desktop system detected
+or laptop with open drivers
+Nothing to do
+
 ________________________________________________________________________________________________________________________________________________________________
 
 $ glxinfo
