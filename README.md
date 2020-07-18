@@ -36,7 +36,7 @@ Portage dump structure driver ubuntu 16.04-18.04 https://youtu.be/F5SYMzrTxjI?t=
 
 Brave browser profile srgb https://www.youtube.com/watch?v=I2aHs2mRtXc
 
-Реакция запуска sqlitebrowser где он явно показывает что драйвер sRGB
+Реакция запуска sqlitebrowser где он явно показывает что драйвер имеет плотность пикселей и цветовое пространство sRGB
 
 $ sqlitebrowser
 Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
