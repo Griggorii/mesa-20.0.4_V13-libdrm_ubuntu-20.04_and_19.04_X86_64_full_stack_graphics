@@ -157,16 +157,27 @@ Nothing to do
 ________________________________________________________________________________________________________________________________________________________________
 
 $ glxinfo | grep render
+
 direct rendering: Yes
+
     GLX_MESA_multithread_makecurrent, GLX_MESA_query_renderer, 
+    
     GLX_MESA_copy_sub_buffer, GLX_MESA_query_renderer, GLX_MESA_swap_control, 
+    
 Extended renderer info (GLX_MESA_query_renderer):
+
 OpenGL renderer string: Mesa DRI Intel(R) HD Graphics 3000 (SNB GT2)
+
     GL_ARB_conditional_render_inverted, GL_ARB_copy_buffer, GL_ARB_copy_image, 
+    
     GL_NV_conditional_render, GL_NV_depth_clamp, GL_NV_packed_depth_stencil, 
+    
     GL_ARB_conditional_render_inverted, GL_ARB_copy_buffer, GL_ARB_copy_image, 
+    
     GL_MESA_window_pos, GL_NV_blend_square, GL_NV_conditional_render, 
+    
     GL_MESA_shader_integer_functions, GL_NV_conditional_render, 
+    
     GL_OES_fbo_render_mipmap, GL_OES_get_program_binary, GL_OES_mapbuffer
     
 _________________________________________________________________________________________________________________________________________________________________
